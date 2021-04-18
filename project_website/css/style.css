@@ -283,8 +283,8 @@ vertical-align: top;
             background: url(../images/cc\ stripes2.jpg)no-repeat;
             background-size: cover;
             
-            width: 660px;
-            height: 393px;
+            width: 640px;
+            height: 415px;
            vertical-align: top;
            
            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -426,6 +426,13 @@ vertical-align: top;
     font-size: 14px;
     transition: 0.5s;
     transform: scale(1);
+}
+
+.feedback1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+    text-align: center;
+    background-color: rgb(166, 233, 224);
 }
 
 
