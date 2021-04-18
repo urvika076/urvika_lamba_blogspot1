@@ -1,0 +1,478 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .banner1{
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        font-size:60px;
+        font-weight:500;
+        
+        
+        color:black;
+        background-image: url(../images/28dad5a18258d9e8572c0448e71aadc1.jpg);
+        height:350px;
+        border-top: 10px black;
+
+        
+
+    
+    }
+    .banner2{
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        font-size:80px;
+        font-weight:500;
+        text-align: center;
+        
+        color: white;
+        background-color: black;
+        height:350px;
+        /*border-top: 10px black;*/
+
+        
+
+    
+    }
+    .banner3{
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        font-size:60px;
+        font-weight:500;
+        text-align: center;
+        
+        color:rgb(233, 70, 70);
+        background-image: url(../images/cc\ final\ top2.jpg);
+        
+        height:350px;
+        width: 100%;
+        /*border-top: 10px black;*/
+
+        
+
+    
+    }
+    .banner4{
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        font-size:80px;
+        font-weight:500;
+        text-align: center;
+        
+        color: grey;
+        background: url(../images/gender\ gd\ page\ top4.jpg)no-repeat;
+        background-size: cover;
+        height:500px;
+        border-top: 10px black;
+
+        
+
+    
+    }
+
+    .homepagePics1{
+
+   
+    background: url(../images/butterfly\ home.jpg)no-repeat;
+    border: 20px solid black;
+   
+    /*margin-top:20px;*/ 
+    padding: 20px;
+    height: 250px;
+    width: 37%;
+    display: inline-block;
+    vertical-align: top;
+    /*overflow:scroll;*/
+    /*opacity: 0.5;*/ 
+    /*box-shadow: 1px 1px 4px #000;*/
+    /*font-weight: bold;*/
+    }
+    .homepagePics2{
+
+   
+        background: url(../images/butterfly\ vinly\ home.jpg)no-repeat;
+        border: 20px solid black;
+        background-size: 100% 100%;
+       
+        /*margin-top:20px;*/ 
+        padding: 20px;
+        height: 250px;
+        width: 38%;
+        display: inline-block;
+        vertical-align: top;
+        /*float: right;*/
+        /*overflow:scroll;*/
+        /*opacity: 0.5;*/ 
+        /*box-shadow: 1px 1px 4px #000;*/
+        /*font-weight: bold;*/
+        }
+    
+        .homepagePics3{
+
+   
+            background-image: url(../images/harry\ styles\ guitar.jpg);
+           
+            background-size: contain;
+            border: 20px solid black;
+           
+            /*margin-top:20px;*/ 
+            padding: 20px;
+            height: 580px;
+            width:93%;
+            display: inline-block;
+            vertical-align: top;
+            /*overflow:scroll;*/
+            /*opacity: 0.5;*/ 
+            /*box-shadow: 1px 1px 4px #000;*/
+            /*font-weight: bold;*/
+            }
+            .homepagePics4{
+
+   
+                background: url(../images/vinly\ vintage\ home.jpg) no-repeat;
+               
+                /*background-size: contain;*/
+                border: 20px solid black;
+               
+                /*margin-top:20px;*/ 
+                padding: 20px;
+                height: 250px;
+                width: 37%;
+                display: inline-block;
+                vertical-align: top;
+                /*overflow:scroll;*/
+                /*opacity: 0.5;*/ 
+                /*box-shadow: 1px 1px 4px #000;*/
+                /*font-weight: bold;*/
+                }
+                .homepagePics5{
+
+   
+                    background: url(../images/books.jpg) no-repeat;
+                   
+                    background-size: 100% 100%;
+                    border: 20px solid black;
+                   
+                    /*margin-top:20px;*/ 
+                    padding: 20px;
+                    height: 250px;
+                    width: 38%;
+                    display: inline-block;
+                    vertical-align: top;
+                    /*overflow:scroll;*/
+                    /*opacity: 0.5;*/ 
+                    /*box-shadow: 1px 1px 4px #000;*/
+                    /*font-weight: bold;*/
+                    }
+
+                .home .left{
+
+width: 49%;
+display: inline-block;
+vertical-align: top;
+                    
+                }
+                .home .right{
+
+                    width: 49%;
+                    display: inline-block;
+                    vertical-align: top;
+                                        
+                                    }
+                                
+     .about {
+         border-top: 10px black;
+
+background-color: rgb(166, 233, 224);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+color: darkslategrey;
+text-align: center;
+        
+     } 
+     
+     .rdPic1{
+         background-image: url(../images/blm\ rd\ page.jpg);
+         width: 417px;
+         height: 430px;
+        vertical-align: top;
+        border: 20px black;
+     }
+     .rd1{
+text-align: left;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: lighter;
+padding-right: 40px;
+padding-top: 20px;
+background-color: black;
+height: 415px;
+color: floralwhite;
+font-size: 30px;
+
+     }
+     .rd2{
+        text-align: left;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-weight: lighter;
+        border: 30px black;
+        background-color:floralwhite;
+        height: 428px;
+        color: black;
+        font-size: 25px;
+     }    
+     .rdPic2{
+        background-image: url(../images/blm3\ rd\ pg.jpg);
+        width: 100%;
+        height: 430px;
+       vertical-align: top;
+       border: 20px black;
+
+     }    
+
+     .left2{
+      width:29%;
+      display: inline-block;
+vertical-align: top;
+
+
+     }
+
+     .right2{
+        width:69%;
+        display: inline-block;
+  vertical-align: top;
+  
+  
+       }
+       .cc1{
+        text-align: left;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-weight: lighter;
+        border: 30px black;
+        background-color:rgb(0, 160, 0);
+        height: 428px;
+        color:rgb(233, 70, 70);
+        font-size: 25px;
+        width: 670px;
+        padding-left: 10px;
+        padding-top: 10px;
+
+
+       }
+       .cc2{
+        text-align: left;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-weight: lighter;
+        border: 30px black;
+        background-color:rgb(233, 70, 70);
+        height: 428px;
+        color:rgb(0, 100, 62);
+        font-size: 25px;
+        padding: 20px;
+
+       }
+       .ccPic1{
+        background: url(../images/ice\ berg\ cc.jpg
+        )no-repeat;
+        background-size: cover;
+
+        width: 100%;
+        height: 430px;
+       vertical-align: top;
+       border: 20px black;
+
+
+       }     
+        .ccPicPlusQuote{
+            background: url(../images/cc\ stripes2.jpg)no-repeat;
+            background-size: cover;
+            
+            width: 660px;
+            height: 393px;
+           vertical-align: top;
+           
+           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           font-size:30px ;
+           color:black;
+           padding-left: 40px;
+           padding-top: 40px;
+
+        }
+.left3{
+    width:49%;
+    display: inline-block;
+vertical-align: top;
+
+
+}
+
+.right3{
+    width:49%;
+    display: inline-block;
+vertical-align: top;
+
+
+}
+
+.gd1{  text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    
+    background-color:rgb(173, 245, 233);
+    height: 428px;
+    color:darkgrey;
+    font-size: 35px;
+    padding: 40px;
+   
+}
+
+.gdPic1{
+    background: url(../images/gd\ 2\ side.jpg)
+    no-repeat;
+    background-size: cover;
+
+    width: 100%;
+    height: 430px;
+   vertical-align: top;
+   border: 20px black;
+
+
+
+}
+
+.left4{
+    width:69%;
+    display: inline-block;
+vertical-align: top;
+
+
+   }
+
+   .right4{
+      width:29%;
+      display: inline-block;
+vertical-align: top;
+   }
+   .quote1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    background-color:rgb(229, 245, 173);
+    height: 150px;
+    color:darkgrey;
+    font-size: 25px; 
+    padding: 40px; 
+    border:15px rgb(117, 117, 117);
+   
+
+
+   }
+   .gd2{  text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    
+    background-color:rgb(245, 173, 227);
+    height: 520px;
+    color:rgb(117, 117, 117);
+    font-size: 35px;
+    padding: 40px;
+   
+}
+
+.gdPic2{
+    background: url(../images/gd\ feminism.jpg)
+    no-repeat;
+    background-size: cover;
+
+    width: 100%;
+    height: 600px;
+   vertical-align: top;
+   border: 20px black;
+
+
+
+}
+
+.left5{
+    width:29%;
+    display: inline-block;
+vertical-align: top;
+
+
+   }
+
+   .right5{
+      width:69%;
+      display: inline-block;
+vertical-align: top;
+   }
+
+.nav2{
+
+   
+    height: 40px;
+
+}
+.nav2 a{
+
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:  rgb(166, 233, 224);
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid rgb(166, 233, 224);
+    border-radius: 10px;
+    transition: 0.5s;
+    vertical-align: bottom;
+}
+.nav2 a:hover{
+    color: rgb(243, 174, 217);
+    font-size: 14px;
+    transition: 0.5s;
+    transform: scale(1);
+}
+
+
+    .box:hover{
+    transform: scale(0.5);
+    transition: 0.5s;
+    }
+    
+    .navigation{
+    background-color:darkslategrey ;
+    height: 40px;
+    /*margin-top: 50px;*/
+    }
+    .navigation li{
+    display: inline-block;
+    }
+    .navigation li a{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:  rgb(166, 233, 224);
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid rgb(166, 233, 224);
+    border-radius: 10px;
+    transition: 0.5s;
+    }
+    
+    .navigation li a:hover{
+    color: rgb(243, 174, 217);
+    font-size: 14px;
+    transition: 0.5s;
+    transform: scale(1);
+    }
+    /*.box{
+        color: red;
+        font-size: 20px;
+        text-align: center;
+        background-image: url('../images/yoga-banner.jpg');
+        border: 4px solid #000;
+        margin-top:20px; 
+        padding: 20px;
+        height: 100px;
+        width: 100px;
+        display: inline-block;
+        vertical-align: top;
+        overflow: scroll;
+         opacity: 0.5; 
+        box-shadow: 1px 1px 4px #000;
+        font-weight: bold;
+        }*/
